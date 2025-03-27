@@ -13,7 +13,10 @@ Implement basic probability & statistics concepts in both languages.
  - Packages and Modules
  - Exception Handling
 
-
+# Python Basics through a Todo app
+0. Creating a virtual environment
+  - create a folder
+  - Bash python -m venv venv (venv= virtual environment)
 
 
 # Git
